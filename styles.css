@@ -1,0 +1,10 @@
+body{
+    background: orange;
+    margin: 0;
+    padding: 0;
+}
+.box{
+    width: 50%;
+    height: 50vh;
+    background: grey;
+}
